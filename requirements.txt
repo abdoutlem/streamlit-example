@@ -1,4 +1,5 @@
 selenium
+openpyxl
 altair
 pandas
 streamlit
